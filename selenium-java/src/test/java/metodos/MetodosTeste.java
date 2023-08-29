@@ -9,7 +9,7 @@ import static org.junit.Assert.assertTrue;
 public class MetodosTeste extends Browsers {
 
     public void escrever(By elemento, String texto){
-        drive.findElement(elemento).sendKeys();
+        drive.findElement(elemento).sendKeys(texto);
     }
 
     public void clicar(By elemento){
