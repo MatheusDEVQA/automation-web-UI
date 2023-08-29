@@ -25,6 +25,7 @@ public class Teste {
         metodosTeste.escrever(campoEmail, "tesemail@gemail.com");
         metodosTeste.escrever(campoSenha,"setTest");
         metodosTeste.clicar(checkRemenber);
+        metodosTeste.gerarEvidencia("login","teste_01_preencherCamposLogin");
     }
 
 

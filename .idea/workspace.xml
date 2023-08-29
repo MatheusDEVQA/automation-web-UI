@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a23fe26-d958-491f-aaf9-d4f06d3a1be9" name="Changes" comment="Add metodos">
-      <change afterPath="$PROJECT_DIR$/selenium-java/src/test/java/Steps/Teste.java" afterDir="false" />
+    <list default="true" id="1a23fe26-d958-491f-aaf9-d4f06d3a1be9" name="Changes" comment="first teste preencher campos do login">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-java/src/test/java/drivers/Browsers.java" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-java/src/test/java/drivers/Browsers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-java/src/test/java/Steps/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-java/src/test/java/Steps/Teste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/selenium-java/src/test/java/metodos/MetodosTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-java/src/test/java/metodos/MetodosTeste.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693268882565</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="first teste preencher campos do login">
+      <created>1693270138572</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693270138572</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +139,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="Add webDriverManager" />
     <MESSAGE value="Add metodos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add metodos" />
+    <MESSAGE value="first teste preencher campos do login" />
+    <option name="LAST_COMMIT_MESSAGE" value="first teste preencher campos do login" />
   </component>
 </project>
