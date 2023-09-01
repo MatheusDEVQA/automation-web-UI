@@ -5,33 +5,30 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
+import pageObjects.LoginPage;
 
 public class Teste {
-    MetodosTeste metodosTeste = new MetodosTeste();
 
-    By loginAutomation = By.xpath("//a[text()='Login automation']");
-    By campoEmail = By.id("user[email]");
-    By campoSenha = By.id("user[password]");
-    By checkRemenber = By.id("user[remember_me]");
+    LoginPage loginPage = new LoginPage();
 
 
     @Before
     public void abrirNavegador(){
-        metodosTeste.abrirBrowser();
+
     }
     @Test
-    public void teste_01_preencherCamposLogin(){
-        metodosTeste.clicar(loginAutomation);
-        metodosTeste.escrever(campoEmail, "tesemail@gemail.com");
-        metodosTeste.escrever(campoSenha,"setTest");
-        metodosTeste.clicar(checkRemenber);
-        metodosTeste.gerarEvidencia("login","teste_01_preencherCamposLogin");
+    public void teste_01_login_sucesso(){
+
+        String nomeTeste = new Object(){}.getClass().getEnclosingMethod().getName();
+        loginPage.preencherCamposLogin(nomeTeste,"tesemail@gemail.com", "15setSenha");
+
     }
 
 
     @After
     public void fecharNavegador(){
-        metodosTeste.fecharNavegador();
+
+
     }
 
 }
