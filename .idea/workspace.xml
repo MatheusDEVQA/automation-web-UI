@@ -22,6 +22,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/selenium-java/src/test/java/metodos/MetodosTeste.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/selenium-java/src/test/java/Steps/Teste.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/selenium-java/src/test/java/pageObjects/LoginPage.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/selenium-java/src/test/java/drivers/Browsers.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/selenium-java/pom.xml" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -40,7 +47,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../imersao14" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Automation-API/cypress" />
   </component>
   <component name="RunManager" selected="JUnit.Teste.teste_01_preencherCamposLogin">
     <configuration name="Browsers.abriBrowser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
