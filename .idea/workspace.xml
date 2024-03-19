@@ -6,6 +6,32 @@
   <component name="ChangeListManager">
     <list default="true" id="1a23fe26-d958-491f-aaf9-d4f06d3a1be9" name="Changes" comment="Add Page Object">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/backend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/backend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/backend/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/cypress.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/cypress/e2e/api/customer.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/cypress/e2e/ui/customer.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/cypress/fixtures/customers.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/frontend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/frontend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/frontend/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/frontend/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/frontend/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/frontend/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/frontend/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/frontend/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/frontend/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/frontend/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/frontend/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/frontend/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/package.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +46,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/file-yml" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -47,7 +78,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Automation-API/cypress" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="JUnit.Teste.teste_01_preencherCamposLogin">
     <configuration name="Browsers.abriBrowser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
