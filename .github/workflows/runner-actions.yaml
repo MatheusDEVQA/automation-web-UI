@@ -1,0 +1,11 @@
+name: Run tests
+
+on:
+  workflow_dispatch:
+
+jobs:
+  regression-test-run:
+    name: First job
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run UI tests 🧪
